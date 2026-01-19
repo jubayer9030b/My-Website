@@ -57,15 +57,4 @@ color: white;
 text-align: center;
 padding: 10 px;
 }
-@media (max-width: 768 px) {
-.services {
-flex-direction: column;
-}
-
-
-.card {
-width: 90 %;
-margin: 10 px auto;
-}
-}
 
