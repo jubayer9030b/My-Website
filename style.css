@@ -39,6 +39,7 @@ border: none;
 .services {
 display: flex;
 justify-content: space-around;
+  margin: 20 px;
 padding: 20 px;
 }
 
@@ -57,4 +58,5 @@ color: white;
 text-align: center;
 padding: 10 px;
 }
+
 
