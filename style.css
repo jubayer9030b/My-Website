@@ -60,3 +60,65 @@ padding: 10 px;
 }
 
 
+@media (max-width: 768 px){
+  body {
+margin: 0;
+font-family: Arial;
+}
+
+
+.header {
+background-color: #222;
+color: white;
+padding: 15 px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.header a {
+color: white;
+margin-left: 15 px;
+text-decoration: none;
+}
+
+
+.hero {
+text-align: center;
+padding: 60 px;
+background-color: #f4f4f4;
+}
+
+
+button {
+padding: 10 px 20 px;
+background-color: #007bff;
+color: white;
+border: none;
+}
+
+
+.services {
+display: flex;
+justify-content: space-around;
+  margin: 20 px;
+padding: 20 px;
+}
+
+
+.card {
+background-color: #ddd;
+padding: 30 px;
+width: 30 %;
+text-align: center;
+}
+
+
+.footer {
+background-color: #222;
+color: white;
+text-align: center;
+padding: 10 px;
+}
+}
